@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuat Guzel</h1>
 
-- 🔭 I'm seeking employment.
-- 🌱 I’m currently learning Nodejs, Express, React, React Native...
+<!-- - 🔭 I'm seeking employment. -->
+- 🌱 I’m currently learning Nodejs, React and React Native.
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,12 +14,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/fuat-guzel" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="fuatguzel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12348741/fuatguzel" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="fuatguzel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fuatguzel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fuatguzel" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fuatguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fuatguzel" height="30" width="40" /></a>
 <a href="https://www.twitter.com/fuatdev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="fuatguzel" height="30" width="40" /></a>
 </p>
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="30" height="30"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="33" height="30"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="materialui" width="30" height="30"/> </a>
@@ -32,7 +32,7 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="redis" width="30" height="30"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a>
 <a href="https://www.docker.com/brand-guidelines" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="30" height="30"/> </a>
-<a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg" alt="redux" width="30" height="30"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -49,3 +49,6 @@
 <a href="https://chrome.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" width="30" height="30"/> </a> 
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuatguzel&show_icons=true&locale=en" alt="fuatguzel" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuatguzel&show_icons=true&locale=en&layout=compact" alt="fuatguzel" /></p>
