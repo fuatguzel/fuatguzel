@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuat Guzel</h1>
-
+<h3 align="center">A Software Developer from Turkey</h3>
 <!-- - 🔭 I'm seeking employment. -->
+
 - 🌱 I’m currently learning Nodejs, React and React Native.
 <!-- 
 - 👯 I’m looking to collaborate on ...
@@ -49,6 +50,6 @@
 <a href="https://chrome.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" width="30" height="30"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuatguzel&show_icons=true&locale=en" alt="fuatguzel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuatguzel&show_icons=true&theme=dark&locale=en" alt="fuatguzel" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuatguzel&show_icons=true&locale=en&layout=compact" alt="fuatguzel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuatguzel&show_icons=true&theme=dark&locale=en&layout=compact" alt="fuatguzel" /></p>
