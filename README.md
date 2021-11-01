@@ -51,6 +51,23 @@
 <a href="https://chrome.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" width="30" height="30"/> </a> -->
 </p>
 
+
+## :trophy: My Stats 
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=fuatguzel&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=fuatguzel&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatguzel&theme=radical">
+  <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatguzel&theme=radical" />
+</a>
+</div>
+
+
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=fuatguzel&color=orange&style=plastic" alt="fuatguzel" /> 
+</p>
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuatguzel&show_icons=true&theme=dark&locale=en" alt="fuatguzel" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuatguzel&show_icons=true&theme=dark&locale=en&layout=compact" alt="fuatguzel" /></p>
